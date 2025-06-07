@@ -1,3 +1,6 @@
+
+![Uploading Coinlert Cover 1.png…]()
+
 # Coinlert 💱
 
 **Coinlert** is a sleek and minimalist cryptocurrency price tracker built with **Flutter**. It displays real-time prices and icons for major cryptocurrencies using the **CoinCap API**. Designed with Swiss-style UI principles, Coinlert delivers essential crypto data in a clean and responsive interface.
