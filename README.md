@@ -1,5 +1,5 @@
 
-[](https://github.com/ShabeerShah72/Coinlert/blob/2aac664f6801684620250b197d99386836bae11a/Coinlert%20Cover%201.png)
+![Coinlert Cover 1](https://github.com/user-attachments/assets/ce7707f2-c39d-45b9-9c2d-7893aa66ac66)
 
 
 # Coinlert 💱
