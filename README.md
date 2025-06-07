@@ -1,4 +1,4 @@
-# coinlert1
+# Coinlert
 
 A new Flutter project.
 
