@@ -18,6 +18,10 @@
 - 🔍 Optimized for mobile experience  
 
 ---
+##Screens
+![CoinLert Screens](https://github.com/user-attachments/assets/deaecef3-ec25-400a-9776-d1d1454b4dab)
+
+---
 
 ## 🛠️ Tech Stack
 
